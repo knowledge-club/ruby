@@ -28,4 +28,4 @@ $ irb
 irb(main):001:0> _
 ```
 
-E agora você pode seguir para o seu [primeiro comando]() no irb ou [voltar](../../README_pt-br.md) para o README!
+E agora você pode seguir para o seu [primeiro comando](404_pt-br.md) no irb ou [voltar](../../README_pt-br.md) para o README!

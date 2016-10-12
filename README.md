@@ -1,6 +1,7 @@
 ![Ruby!](icon.png)
 
-Olá! Aqui falamos português também! Clique nesse [link mágico](README_pt-br.md) e acesse todo o conteúdo em português do Brasil!
+Olá! Aqui falamos português também!<br>
+Clique nesse [link mágico](README_pt-br.md) e acesse todo o conteúdo em português do Brasil!
 
 ```ruby
 # The famous Hello World

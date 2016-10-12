@@ -1,7 +1,7 @@
 ![Ruby!](icon.png)
 
-Hello! Here, we speak english too! Click on this [magic link](README.md) and access all this content in english!
-
+Hello! Here, we speak english too!<br>
+Click on this [magic link](README.md) and access all this content in english!
 
 ```ruby
 # O famoso programa

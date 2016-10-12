@@ -45,4 +45,4 @@ $ irb
 irb(main):001:0> _
 ```
 
-And now you can go to your [first command]() on irb or [go back](../README.md) to README!
+And now you can go to your [first command]() on irb or [go back](../../README.md) to README!

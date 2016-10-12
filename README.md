@@ -1,8 +1,5 @@
 ![Ruby!](icon.png)
 
-Olá! Aqui falamos português também!<br>
-Clique nesse [link mágico](README_pt-br.md) e acesse todo o conteúdo em português do Brasil!
-
 ```ruby
 # The famous Hello World
 # Program is trivial in
@@ -29,3 +26,6 @@ Let's start of the very beginning. How to install ruby?
   - [Ubuntu](/contents/en/how_to_install_on_ubuntu.md)
   - [MacOS](/contents/en/how_to_install_on_macos.md)
   - [Windows](/contents/en/how_to_install_on_windows.md)
+
+*Olá! Aqui falamos português também!*<br>
+*Clique nesse [link mágico](README_pt-br.md) e acesse todo o conteúdo em português do Brasil!*

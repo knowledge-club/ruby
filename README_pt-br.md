@@ -1,8 +1,5 @@
 ![Ruby!](icon.png)
 
-Hello! Here, we speak english too!<br>
-Click on this [magic link](README.md) and access all this content in english!
-
 ```ruby
 # O famoso programa
 # "Olá Mundo" é trivial
@@ -29,3 +26,6 @@ Vamos começar do começo. Como instalar o Ruby?
   - [Ubuntu](/contents/pt_br/como_instalar_no_ubuntu.md)
   - [MacOS](/contents/pt_br/como_instalar_no_macos.md)
   - [Windows](/contents/pt_br/como_instalar_no_windows.md)
+
+*Hello! Here, we speak english too!*<br>
+*Click on this [magic link](README.md) and access all this content in english!*
